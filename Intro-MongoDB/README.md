@@ -1,0 +1,2 @@
+# MongoDB: popular open source document oriented database.
+# - It's one of the most powerful noSQL system and database. Uses document storage format called the BSON(binary style json document). Able to handle large amount of unstructured data in real time apps. 
